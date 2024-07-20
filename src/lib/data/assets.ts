@@ -71,12 +71,14 @@ const Assets = {
 	Unocss: a('unocss.svg'),
 	Ruvy: a('ruvy.svg'),
 	Postcss: a('postcss.svg'),
-	cSharp: a('postcss.svg'),
-	cplusplus: a('postcss.svg'),
 	blender: a('blender.svg'),
-	qt: a('qt.svg'),
-	unity : a('unity.svg'),
-	p5js: a('p5js.svg')
+	Unity: a('unity.svg'),
+	csharp: a('csharp.svg'),
+	cplusplus: a('cpp.svg'),
+	p5js: a('p5js.svg'),
+	processing: a('processing.svg'),
+	mySQL: a('mysql.svg'),
+	qt: a('qt.svg')
 };
 
 export default Assets;
